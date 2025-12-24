@@ -1,0 +1,9 @@
+namespace: netflix
+
+resources:
+  - ../../base
+
+images:
+  - name: 564430720510.dkr.ecr.us-west-1.amazonaws.com/netflix-ui
+    newTag: "1.0"
+
